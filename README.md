@@ -110,7 +110,8 @@ public Index() {
 实验结果
 -------
 ![](https://github.com/JST165411/-/blob/master/4899235c5fe3a7d81b87ddb6e887c2a.png)</div>
-![](https://github.com/JST165411/-/blob/master/4899235c5fe3a7d81b87ddb6e887c2a.png)</div>
+![](https://github.com/JST165411/-/blob/master/950114a0258d02b00981d73ee2966e9.png)</div>
+
 感想
 ----
-整体实验难度不大，运用了并初步了解了新学的indexOf用法。还需多加熟练。
+实验难度偏大，通过跟室友的讨论合作，借鉴网上的经验才完成。对GUI的编程更熟悉了些，还需多加练习。
