@@ -109,8 +109,8 @@ public Index() {
 
 实验结果
 -------
-![](https://github.com/JST165411/111/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20191117191254.jpg)</div>
-
+![](https://github.com/JST165411/-/blob/master/4899235c5fe3a7d81b87ddb6e887c2a.png)</div>
+![](https://github.com/JST165411/-/blob/master/4899235c5fe3a7d81b87ddb6e887c2a.png)</div>
 感想
 ----
 整体实验难度不大，运用了并初步了解了新学的indexOf用法。还需多加熟练。
